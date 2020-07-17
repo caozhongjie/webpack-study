@@ -1,0 +1,13 @@
+#box{
+    width: 100px;
+    height: 100px;
+    background: aliceblue;
+    display: flex;
+    -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+}
+#box2{
+    width: 200px;
+    height: 200px;
+    background: aqua;
+}
